@@ -1,0 +1,1 @@
+# SGS2-loot-drop-trainer
